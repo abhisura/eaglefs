@@ -14,7 +14,7 @@ background-image: url("http://www.intrawallpaper.com/static/images/518164-backgr
 </head>
 <body>
 <div class="container">
-	<a href="http://localhost/eaglefs/public/"> Home </a> |
+	<a href="http://eaglefs.herokuapp.com/"> Home </a> |
     <a href="{{ action('CustomerController@index') }}">Customers</a> |
     <a href="{{ action('StockController@index') }}">Stocks</a> |
     <a href="{{ action('InvestmentController@index') }}">Investments</a>
