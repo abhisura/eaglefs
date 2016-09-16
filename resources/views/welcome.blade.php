@@ -43,7 +43,7 @@
             <div class="content">
                 <div class="title">
 				Welcome to EAGLE FINANCES<br> 
-				<a href="http://localhost/eaglefs/public/customers"target="_blank" style="color: #555;">KNOW YOUR MONEY</a>
+				<a href="http://eaglefs.herokuapp.com/customers"target="_blank" style="color: #555;">KNOW YOUR MONEY</a>
 				</div>
             </div>
         </div>
